@@ -1,0 +1,7 @@
+C:\Users\fodorr\Gitwork\Szamosszeg\bin\Debug\Szamosszeg.exe.config
+C:\Users\fodorr\Gitwork\Szamosszeg\bin\Debug\Szamosszeg.exe
+C:\Users\fodorr\Gitwork\Szamosszeg\bin\Debug\Szamosszeg.pdb
+C:\Users\fodorr\Gitwork\Szamosszeg\obj\Debug\Szamosszeg.csproj.AssemblyReference.cache
+C:\Users\fodorr\Gitwork\Szamosszeg\obj\Debug\Szamosszeg.csproj.CoreCompileInputs.cache
+C:\Users\fodorr\Gitwork\Szamosszeg\obj\Debug\Szamosszeg.exe
+C:\Users\fodorr\Gitwork\Szamosszeg\obj\Debug\Szamosszeg.pdb
